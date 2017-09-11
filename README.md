@@ -3,7 +3,7 @@
 ## Screenshots
 
 PAGE one
-![Blog Page](https://github.com/zhangjing9898/Game2048/_screenshots/screenshot-1.png "Desktop screenshot")
+![2048 screenshots](https://raw.githubusercontent.com/zhangjing9898/Game2048/master/_screenshots/screenshots-1.png)
 
 PAGE two
-![Blog Page](https://github.com/zhangjing9898/Game2048/_screenshots/screenshot-1.png "Desktop screenshot")
+![2048 screenshots](https://raw.githubusercontent.com/zhangjing9898/Game2048/master/_screenshots/screenshots-2.png)
